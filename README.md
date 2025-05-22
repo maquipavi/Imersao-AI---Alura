@@ -1,6 +1,6 @@
 # Projeto de Análise de Personalidade e Propósito de Vida com Agentes de IA
 
-## Descrição
+## Descrição (https://colab.research.google.com/drive/1R5jteKJoXZFCTDECkU1HNTdksH69r3-d?usp=sharing)
 
 Este projeto utiliza agentes de Inteligência Artificial, impulsionados pelo modelo Gemini do Google, para realizar análises de personalidade e identificar pontos de melhoria com base na data de nascimento do usuário. O sistema busca também exemplos de brasileiros de sucesso que compartilham a mesma data de nascimento, oferecendo um relatório final otimista e motivador.
 
