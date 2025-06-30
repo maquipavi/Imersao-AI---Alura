@@ -18,7 +18,7 @@ API_TOKEN = "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"
 
 # URL da API do Hugging Face para o modelo Stable Diffusion XL
 API_URL = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0"
-HEADERS = {"Authorization": f"Bearer {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}"}
+HEADERS = {"Authorization": f"Bearer {API_TOKEN}"}
 
 # Prompts base para garantir a qualidade e o estilo da imagem
 BASE_PROMPT_TEMPLATE = "ultra realistic 8k photo, {age_desc}, {skin_tone}, cinematic lighting, professional photography, sharp focus, incredibly detailed"
